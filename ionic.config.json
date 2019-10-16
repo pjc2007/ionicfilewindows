@@ -1,5 +1,7 @@
 {
   "name": "testfile",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
